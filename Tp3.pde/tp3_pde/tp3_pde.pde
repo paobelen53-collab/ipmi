@@ -1,5 +1,5 @@
 //no link de tengo video, pero igualmente les queria dejar el codigo,
-// Se los mando igual porque se que por mas que tuviera el video, no supe encontrar la manera de que las elipses verdes se vean y eso ya me resta mucho.
+// Se que por mas que tuviera el video, no supe encontrar la manera de que las elipses verdes se vean y eso ya me resta mucho.
 PImage imgRef;
 float escala = 1; 
 float angulo = 0; 
